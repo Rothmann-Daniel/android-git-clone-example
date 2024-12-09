@@ -1,6 +1,6 @@
 # Тестовый репозиторий для практики с Pull Request в GitHub
 
-Этот репозиторий - Daniel Rothmann // new commit
+Этот репозиторий - Daniel Rothmann
 
 ## Как этим пользоваться?
 
